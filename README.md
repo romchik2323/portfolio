@@ -1,17 +1,17 @@
 # Roman  
-**Student at Gubkin Russian State University of Oil and Gas**  
+**Аналитика/DS**  
 
 ---
 
-### 📚 Education  
-- **Gubkin Russian State University of Oil and Gas (National Research University)**  
-  Faculty: Applied Mathematics  
-  Year: 2nd (Bachelor's degree)  
-  *2025 – Present*  
+### 📚 ОБразование  
+- **Студент в РГУНГ им И.М. Губкина**  
+  Прикладная математика 
+  3 курс (бакалавриат)  
+   
 
 ---
 
-### 💻 Technical Skills  
+### 💻 Пользуюсь  
 - **Languages:**  
   ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) 
