@@ -106,7 +106,7 @@ Python Machine Learning PostgreSQL
 - **Электронные чеки** ассоциируются с повышенным риском оттока
 - **Fiber optic** (оптволоконный) интернет показывает наибольший отток
 <img width="1439" height="761" alt="image" src="https://github.com/user-attachments/assets/fee1613b-2457-4124-af00-644c26ab42f6" />
-### 📊 Модель машинного обучения:
+# 📊 Модель машинного обучения:
 
 - **Алгоритм**: Random Forest Classifier  
 - **Точность**: 85%
